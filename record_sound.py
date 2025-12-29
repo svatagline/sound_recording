@@ -5,7 +5,7 @@ import numpy as np
 # ---- CONFIG ----
 SAMPLE_RATE = 44100
 CHANNELS = 2
-DURATION = 10          # seconds
+DURATION = 25          # seconds
 OUTPUT_FILE = "system_audio.wav"
 
 # List devices to find BlackHole
