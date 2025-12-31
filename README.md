@@ -19,3 +19,5 @@ https://chatgpt.com/share/6952914e-edb8-800d-9781-15bd7924e1eb
    2 BlackHole 2ch, Core Audio (2 in, 2 out)
 
 5. run script
+
+<!-- For screen recording install ffmpeg in pc after downloading from https://ffmpeg.org/-->
